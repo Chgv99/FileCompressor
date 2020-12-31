@@ -2,6 +2,10 @@
 
 This project's objective is the compression of a group of files selected by the user from its machine.
 
+<p align="center">
+  ![Figure 1](https://i.imgur.com/en2rOuR.png)
+</p>
+
 ![Figure 1](https://i.imgur.com/xSz0zGg.png)
 ![Figure 2](https://i.imgur.com/hEQMynt.png)
 ![Figure 3](https://i.imgur.com/0j9EEbQ.png)
