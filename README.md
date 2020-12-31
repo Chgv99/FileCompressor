@@ -3,12 +3,8 @@
 This project's objective is the compression of a group of files selected by the user from its machine.
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  ![Figure 0](https://i.imgur.com/en2rOuR.png)
+  <img src="https://i.imgur.com/en2rOuR.png" alt="Figure 0">
+  ![Figure 0]()
 </p>
 
 
