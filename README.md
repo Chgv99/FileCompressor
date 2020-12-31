@@ -8,7 +8,7 @@ This project's objective is the compression of a group of files selected by the 
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  ![Figure 0](https://i.imgur.com/en2rOuR.png)
 </p>
 
 
