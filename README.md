@@ -6,6 +6,8 @@ This project's objective is the compression of a group of files selected by the 
   <img src="https://i.imgur.com/en2rOuR.png" alt="Figure 1">
 </p>
 
+The user will be shown an empty list where the files will be shown after selection.
+
 <p align="center">
   <img src="https://i.imgur.com/0j9EEbQ.png" alt="Figure 2">
 </p>
