@@ -25,9 +25,5 @@ Then the process will begin.
 
 <p align="center">
   <img src="https://i.imgur.com/CBovidc.png" alt="Figure 3">
-</p>
-
-
-<p align="center">
   <img src="https://i.imgur.com/3gPsxft.png" alt="Figure 4">
 </p>
