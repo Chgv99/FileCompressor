@@ -19,10 +19,8 @@ This is done by going "Archivos -> Cargar". Then, the user needs to select a **f
   <img src="https://i.imgur.com/0j9EEbQ.png">
 </p>
 
-
-<p align="center">
-  <img src="https://i.imgur.com/0j9EEbQ.png" alt="Figure 2">
-</p>
+To compress the selected files the user must click "Comprimir selección" (Compress selection), and in the new window select a name and path for then .zip.  
+Then the process will begin.
 
 
 <p align="center">
