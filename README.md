@@ -6,7 +6,7 @@ This project's objective is the compression of a group of files selected by the 
   <img src="https://i.imgur.com/en2rOuR.png" alt="Figure 1">
 </p>
 
-The user will be shown an empty list where the files will be shown after selection.
+The user will be shown an empty list where the files will be shown after selection.<b></b>
 This is done by going "Archivos -> Cargar". Then, the user needs to select a **folder** (only after that, in the previous window, the user will be able to select each file individually to add to the .zip.
 
 <p align="center">
